@@ -1,0 +1,23 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\soumy\Documents\25EC01045_inv\LTSPICE SIMULATION\ltspice_simulation.net
+Start Time: Sat Nov 14 23:47:55 2026
+Options:allow_ambiguous_models
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+Instance "m2:M2": Length shorter than recommended for a level 1 MOSFET.
+C:\Users\soumy\Documents\25EC01045_inv\LTSPICE SIMULATION\ltspice_simulation.net(8): Missing value, assuming 0V @ DC.
+
+V§gate vin 0
+^^^^^^^^^^^^
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.159 seconds.
+
+Files loaded:
+C:\Users\soumy\Documents\25EC01045_inv\LTSPICE SIMULATION\ltspice_simulation.net
+C:\Users\soumy\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\soumy\Documents\25EC01045_inv\LTSPICE SIMULATION\2N7000.onsemi.lib
+C:\Users\soumy\Documents\25EC01045_inv\LTSPICE SIMULATION\BS250.philips.lib
+

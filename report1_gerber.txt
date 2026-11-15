@@ -1,0 +1,13 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'C:\Users\soumy\Documents\25EC01045_inv\25EC01045_inv-F_Cu.gbr'.
+Plotted to 'C:\Users\soumy\Documents\25EC01045_inv\25EC01045_inv-B_Cu.gbr'.
+Plotted to 'C:\Users\soumy\Documents\25EC01045_inv\25EC01045_inv-F_Paste.gbr'.
+Plotted to 'C:\Users\soumy\Documents\25EC01045_inv\25EC01045_inv-B_Paste.gbr'.
+Plotted to 'C:\Users\soumy\Documents\25EC01045_inv\25EC01045_inv-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\soumy\Documents\25EC01045_inv\25EC01045_inv-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\soumy\Documents\25EC01045_inv\25EC01045_inv-F_Mask.gbr'.
+Plotted to 'C:\Users\soumy\Documents\25EC01045_inv\25EC01045_inv-B_Mask.gbr'.
+Plotted to 'C:\Users\soumy\Documents\25EC01045_inv\25EC01045_inv-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\soumy\Documents\25EC01045_inv\25EC01045_inv-job.gbrjob'.
+Info: Done.

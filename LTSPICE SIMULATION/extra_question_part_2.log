@@ -1,0 +1,54 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\soumy\Documents\25EC01045_inv\LTSPICE SIMULATION\extra_question_part_2.net
+Start Time: Sun Nov 15 01:21:55 2026
+Options:allow_ambiguous_models
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+Instance "m1:M2": Length shorter than recommended for a level 1 MOSFET.
+C:\Users\soumy\Documents\25EC01045_inv\LTSPICE SIMULATION\extra_question_part_2.net(5): Missing value, assuming 0V @ DC.
+
+V§gate vin 0
+^^^^^^^^^^^^
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration succeeded in finding operating point.
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.293 seconds.
+
+Files loaded:
+C:\Users\soumy\Documents\25EC01045_inv\LTSPICE SIMULATION\extra_question_part_2.net
+C:\Users\soumy\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\soumy\Documents\25EC01045_inv\LTSPICE SIMULATION\BS250.philips.lib
+C:\Users\soumy\Documents\25EC01045_inv\LTSPICE SIMULATION\2N7000.onsemi.lib
+
